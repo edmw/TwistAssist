@@ -1,4 +1,4 @@
-## Welcome to the TwistAssist Issue Tracker 👋
+## Welcome to the TwistAssist Support 👋
 
 This page is used **only** to collect feedback, bug reports, and feature requests for **TwistAssist**, the speedcubing training app.
 
